@@ -1,0 +1,7 @@
+C:\Users\Renan\Documents\Estudo\CodeKata\CodeKata.Exercicios\CodeKata.Exercicios.Exercicio18.Test\bin\Debug\CodeKata.Exercicios.Exercicio18.Test.dll
+C:\Users\Renan\Documents\Estudo\CodeKata\CodeKata.Exercicios\CodeKata.Exercicios.Exercicio18.Test\bin\Debug\CodeKata.Exercicios.Exercicio18.Test.pdb
+C:\Users\Renan\Documents\Estudo\CodeKata\CodeKata.Exercicios\CodeKata.Exercicios.Exercicio18.Test\bin\Debug\CodeKata.Exercicios.Exercicio18.dll
+C:\Users\Renan\Documents\Estudo\CodeKata\CodeKata.Exercicios\CodeKata.Exercicios.Exercicio18.Test\bin\Debug\CodeKata.Exercicios.Exercicio18.pdb
+C:\Users\Renan\Documents\Estudo\CodeKata\CodeKata.Exercicios\CodeKata.Exercicios.Exercicio18.Test\obj\Debug\CodeKata.Exercicios.Exercicio18.Test.csprojResolveAssemblyReference.cache
+C:\Users\Renan\Documents\Estudo\CodeKata\CodeKata.Exercicios\CodeKata.Exercicios.Exercicio18.Test\obj\Debug\CodeKata.Exercicios.Exercicio18.Test.dll
+C:\Users\Renan\Documents\Estudo\CodeKata\CodeKata.Exercicios\CodeKata.Exercicios.Exercicio18.Test\obj\Debug\CodeKata.Exercicios.Exercicio18.Test.pdb

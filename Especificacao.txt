@@ -1,0 +1,31 @@
+Funcionalidade:Gravar Áudio
+
+	Para facilitar a comunicação.
+	Enquanto usuário esta com dificuldades para digitar uma mensagem.
+ 	
+Cenario:Clicar em Gravar 
+	Dado que está com uma conversa aberta
+	Quando clicar em "Gravar" 
+	Então o Resultado deverá ser "Pressione e segure para gravar, solte para Enviar"
+
+Cenario:Pressionar em Gravar 
+	Dado que está com uma conversa aberta
+	Quando Pressionar em "Gravar" 
+	Então aplicativo grava mensagem de voz.
+        E envia mensagem ao destinatário.
+
+
+Funcionalidade:Anexar Foto
+
+	Para fazer o compartilhamento visual através de imagens.
+	Quando palavras nao consegue descrever o que uma imagem demonstra.
+
+Cenario:Enviando foto
+	Dado que precione em Anexar
+	E escolher a opção "Galeria"
+	Quando escolher uma imagem da galeria
+	E Precionar em enviar
+	Então Foto é enviada ao destinatário.
+ 
+
+ 
